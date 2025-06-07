@@ -6,8 +6,7 @@ A Streamlit-powered web application that uses machine learning and natural langu
 
 ## 🚀 Live Demo
 
-🔗 *Coming Soon*  
-(*You can update this with your Streamlit Cloud link once deployed.*)
+👉 [Try the App on Streamlit](https://ai-sentiment-insights.streamlit.app/)
 
 ---
 
@@ -28,4 +27,7 @@ A Streamlit-powered web application that uses machine learning and natural langu
 - Streamlit  
 - scikit-learn  
 - NLTK  
-- Joblib  
+- Joblib
+
+## 📫 LinkedIn
+Krutika Shellagi
