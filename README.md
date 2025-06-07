@@ -6,7 +6,7 @@ A Streamlit-powered web application that uses machine learning and natural langu
 
 ## 🚀 Live Demo
 
-👉 [Try the App on Streamlit](https://ai-sentiment-insights.streamlit.app/)
+👉 [sentiment analyzer](https://ai-sentiment-insights.streamlit.app/)
 
 ---
 
