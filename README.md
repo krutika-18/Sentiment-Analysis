@@ -29,5 +29,6 @@ A Streamlit-powered web application that uses machine learning and natural langu
 - NLTK  
 - Joblib
 
-## 📫 LinkedIn
-Krutika Shellagi
+## 📫 LinkedIn  
+👉 [Krutika Shellagi](https://www.linkedin.com/in/kritika-shellagi/)
+
